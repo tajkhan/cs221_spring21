@@ -6,7 +6,7 @@ The topics are as follows:
 | --- | ----------- | ----------- |
 | 1   | Red Black Trees | 2, |
 | 2   | Splay Trees | 1, |
-| 3   | B Trees | - |
+| 3   | B Trees | 5 |
 | 4   | 2-3-4 Trees | - |
 | 5   | Trie | - |
 | 6   | Skip Lists | - |
@@ -32,7 +32,7 @@ The topics are as follows:
 | No. | Algorithms | Groups |
 | --- | ----------- | ----------- |
 | 1   | Radix Sort | - |
-| 2   | Bucket Sort | - |
+| 2   | Bucket Sort | 5 |
 | 3   | Shell Sort | 1, 4, |
 | 4   | Prim's Minimum Spanning Tree | 3, |
 | 5   | Kruskal's Minimum Spanning Tree | 2, |
