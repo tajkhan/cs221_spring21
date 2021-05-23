@@ -12,7 +12,7 @@ The topics are as follows:
 | 6   | Skip Lists | - |
 | 7   | Heaps | 3, 4, |
 | 8   | Binomial Heaps | - |
-| 9   | Fibonacci Heaps | - |
+| 9   | Fibonacci Heaps | 6 |
 
 
 [//]: # {\bf :}
@@ -32,7 +32,7 @@ The topics are as follows:
 | No. | Algorithms | Groups |
 | --- | ----------- | ----------- |
 | 1   | Radix Sort | - |
-| 2   | Bucket Sort | 5 |
+| 2   | Bucket Sort | 5, 6 |
 | 3   | Shell Sort | 1, 4, |
 | 4   | Prim's Minimum Spanning Tree | 3, |
 | 5   | Kruskal's Minimum Spanning Tree | 2, |
