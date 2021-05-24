@@ -11,7 +11,7 @@ The topics are as follows:
 | 5   | Trie | - |
 | 6   | Skip Lists | - |
 | 7   | Heaps | 3, 4, |
-| 8   | Binomial Heaps | - |
+| 8   | Binomial Heaps | 8,  |
 | 9   | Fibonacci Heaps | 6 |
 
 
@@ -31,7 +31,7 @@ The topics are as follows:
 
 | No. | Algorithms | Groups |
 | --- | ----------- | ----------- |
-| 1   | Radix Sort | 7, |
+| 1   | Radix Sort | 7, 8 |
 | 2   | Bucket Sort | 5, 6 |
 | 3   | Shell Sort | 1, 4, |
 | 4   | Prim's Minimum Spanning Tree | 3, |
