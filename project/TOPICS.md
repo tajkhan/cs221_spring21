@@ -8,7 +8,7 @@ The topics are as follows:
 | 2   | Splay Trees | 1, |
 | 3   | B Trees | 5 |
 | 4   | 2-3-4 Trees | - |
-| 5   | Trie | - |
+| 5   | Trie | 9, |
 | 6   | Skip Lists | - |
 | 7   | Heaps | 3, 4, |
 | 8   | Binomial Heaps | 8,  |
@@ -38,7 +38,7 @@ The topics are as follows:
 | 5   | Kruskal's Minimum Spanning Tree | 2, |
 | 6   | Floyd-Warshall Algorithm | - |
 | 7   | A\* Algorithm | - |
-| 8   | Bellman-Ford Algorithm | - |
+| 8   | Bellman-Ford Algorithm | 9, |
 
 [//]: # {\bf Algorithms:}
 [//]: # \begin{itemize}
