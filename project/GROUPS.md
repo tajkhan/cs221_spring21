@@ -13,3 +13,8 @@ The details of the project groups are as follows:
 | 7   | Red Black Trees <br> Radix Sort| Muhammad Taimoor Khan (2019252 )<br> Muhammad Saad Khan (2019250)<br>Hussnain Ali (2019178 )|
 | 8   | Binomial heaps <br> Radix Sort| M Muzammil Hassan (2019353)<br> Abdullah Abid Hamid (2019016)<br>Faiz Ul Hassan Gardezi (2019123)|
 | 9   | Trie <br> Bellman-Ford Algorithm| Mohammad Owais Khan (2019249)<br> Ameer Hamza (2019071)<br>Muhammad Ammad (2019295)|
+| 10   | Skip Lists<br>  Ai\* Algorithm| Jahanzaib khan ludin (2019187 )<br>  zohaib rustam (2019562)<br> huzefa kaleem bajwa (2019181)|
+
+
+
+

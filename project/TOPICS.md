@@ -9,7 +9,7 @@ The topics are as follows:
 | 3   | B Trees | 5 |
 | 4   | 2-3-4 Trees | - |
 | 5   | Trie | 9, |
-| 6   | Skip Lists | - |
+| 6   | Skip Lists | 10, |
 | 7   | Heaps | 3, 4, |
 | 8   | Binomial Heaps | 8,  |
 | 9   | Fibonacci Heaps | 6 |
@@ -37,7 +37,7 @@ The topics are as follows:
 | 4   | Prim's Minimum Spanning Tree | 3, |
 | 5   | Kruskal's Minimum Spanning Tree | 2, |
 | 6   | Floyd-Warshall Algorithm | - |
-| 7   | A\* Algorithm | - |
+| 7   | A\* Algorithm | 10, |
 | 8   | Bellman-Ford Algorithm | 9, |
 
 [//]: # {\bf Algorithms:}
