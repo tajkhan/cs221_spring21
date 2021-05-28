@@ -5,7 +5,7 @@ The topics are as follows:
 | No. | Data structures | Groups |
 | --- | ----------- | ----------- |
 | 1   | Red Black Trees | 2, 7 |
-| 2   | Splay Trees | 1, |
+| 2   | Splay Trees | 1, 11 |
 | 3   | B Trees | 5 |
 | 4   | 2-3-4 Trees | - |
 | 5   | Trie | 9, |
@@ -34,7 +34,7 @@ The topics are as follows:
 | 1   | Radix Sort | 7, 8 |
 | 2   | Bucket Sort | 5, 6 |
 | 3   | Shell Sort | 1, 4, |
-| 4   | Prim's Minimum Spanning Tree | 3, |
+| 4   | Prim's Minimum Spanning Tree | 3, 11 |
 | 5   | Kruskal's Minimum Spanning Tree | 2, |
 | 6   | Floyd-Warshall Algorithm | - |
 | 7   | A\* Algorithm | 10, |
